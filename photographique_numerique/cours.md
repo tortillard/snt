@@ -2,12 +2,12 @@
 
 ## Histoire    
 
-- En 1826 le français Nicéphore Niépce(lycée de Chalon-sur-Saône, rue à Nice, ...) invente le principe de photographie argentique.
-![Première photographie](img/point_de_vue_du_gras.png)  
-- En 1957 Russel Kirsh fait parti des premier à numériser une photo, notamment celle de son fils. 
-![Première photo numérisée](img/walden.png)
-- L'apparition des appareils photo numériques voit le jour en 1975. Ce sont les premiers appareils capable d'enregistrer une image sous forme de __bits__ en mémoire.   
-- L'arrivée des premiers smartphone dans les année 2000 démocratise la photo numérique.
+- En 1826 le français Nicéphore Niépce(lycée de Chalon-sur-Saône, rue à Nice, ...) invente le principe de photographie argentique.  
+![Première photographie](img/point_de_vue_du_gras.png)    
+- En 1957 Russel Kirsh fait parti des premier à numériser une photo, notamment celle de son fils.   
+![Première photo numérisée](img/walden.png)  
+- L'apparition des appareils photo numériques voit le jour en 1975. Ce sont les premiers appareils capable d'enregistrer une image sous forme de __bits__ en mémoire.     
+- L'arrivée des premiers smartphone dans les année 2000 démocratise la photo numérique.  
  
 
 ## Généralités 
@@ -38,10 +38,12 @@ __Question : Comment un appareil numérique peut afficher une image sur un écra
 Les capteurs numérique se trouvent dans tout les objets permettant de prendre des photos numérique.  
 Leur tailles sont diverses en fonction de l'objet par exemple les capteurs numérique sur les smartphones sont plus petit que ceux dans les appareils photographique haut de gamme. 
 
-Un capteur numérique est constitué d'une grille de __photosite__. 
-Du grec phōs = la lumière et sitos = grain, cellule. Les photosites sont des cellules permettant de capter la lumière 
+Un capteur numérique est constitué d'une grille de <span style="color:red">photosite</span>.  
+Du grec phōs = la lumière et sitos = grain, cellule.  
+Les photosites sont des cellules permettant de capter la lumière.  
 
-Les capteurs numériques sont composés de photosites. Chaque photosite est recouvert d'un filtre coloré en rouge, vert ou bleu et ne laisse passer que les rayons de leur couleur. C'est grâce à cela qu'on peut voir nos images en couleur. 
+Les capteurs numériques sont composés de photosites.  
+Chaque photosite est recouvert d'un filtre coloré en rouge, vert ou bleu et ne laisse passer que les rayons de leur couleur. C'est grâce à cela qu'on peut voir nos images en couleur.   
 
 ![Matrice de Bayer](img/matrice_de_bayer.png)  
 

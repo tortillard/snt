@@ -95,4 +95,4 @@ Alors qu'un pixel possède une couleur résultante de 3 valeurs numérique compr
 Le lien entre les photosites est un pixel est le suivant.    
 La couleur d'un pixel est donnée à partir de 4 photosites(1 rouge, 2 vert et 1 bleu) comme sur l'image ci-dessous.  
 
-![4 photosites 1 pixel](img/4_photosites_1_pixel.png)  
+![4 photosites 1 pixel](img/4_photosites.png)  

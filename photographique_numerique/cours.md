@@ -18,9 +18,9 @@ Tous les appareils photographiques fonctionnent avec le même principe découver
 
 ![Store norske leksikon](img/camera_obscura.png)  
 
-Un trou se trouve sur un des côtés de la boîte et une plaque d'étain recouverte de goudron de l'autre côté. Les rayons lumineux entrent dans la boîte par le trou et viennent se réfléchir sur la plaque. Les joies de la physique font alors apparaître une image qui a la particularité d'être inversée.
+Un trou se trouve sur un des côtés de la boîte et une plaque d'étain recouverte de goudron de l'autre côté. Les rayons lumineux entrent dans la boîte par le trou et forment une image sur la plaque. Les joies de la physique font alors apparaître une image qui a la particularité d'être inversée.
 
-Voici le fonctionnement similaire pour nos yeux ou un appareil photographique.  
+Ce principe est similaire à celui du fonctionnement de nos yeux ou d'un appareil photographique.
 
 ![Oeil et camera](img/oeil_et_camera.png)
 
@@ -38,7 +38,7 @@ __Question : Comment un appareil numérique peut-il afficher une image sur un é
 Les capteurs numériques se trouvent dans tous les objets permettant de prendre des photos numériques (téléphone, tablette, webcam, satellite, ...). Leur taille varie en fonction de l'objet. Par exemple, les capteurs numériques des smartphones sont plus petits que ceux des appareils photographiques haut de gamme.
 
 Un capteur numérique est constitué d'une grille de __photosites__.
-Du grec phōs = lumière et sitos = grain, cellule. Les photosites sont des cellules permettant de capter la lumière.
+Du grec phōs (lumière) et sitos (grain, cellule). Les photosites sont des cellules permettant de capter la lumière.
 
 Les capteurs numériques sont composés de photosites.
 Chaque photosite est recouvert d'un filtre coloré en rouge, vert ou bleu, et ne laisse passer que les rayons de sa couleur. C'est grâce à cela que nous pouvons voir nos images en couleur.
@@ -71,7 +71,7 @@ Voici les coordonnées des pixels d'une image sur un écran.
 On appelle __définition__ d'une image le nombre de pixels qu'elle contient.
 Par exemple, une image contenant 1920 pixels en largeur et 1080 pixels en hauteur possède une définition de 2 073 600 pixels ou 2,07 Mégapixels (1920 $\times$ 1080 = 2 073 600).   
 
-On appelle __résolution__ d'une image le nombre de pixels qu'elle contient sur __une longueur donnée__. Elle est notée en Pixels Par Pouce (ou Pixels Per Inch). Par exemple, un écran avec une définition de 1920 $\tiems$ 1080 affiche une image en plein écran avec une résolution de 92 ppi.
+On appelle __résolution__ d'une image le nombre de pixels qu'elle contient sur __une longueur donnée__. Elle est notée en Pixels Par Pouce (ou Pixels Per Inch). Par exemple, un écran avec une définition de 1920 $\times$ 1080 affiche une image en plein écran avec une résolution de 92 ppi.
 
 Chaque pixel contient une information primordiale : __sa couleur__. En général, on représente la couleur d'un pixel par 3 valeurs : celle du rouge, du vert et du bleu, et chaque valeur est comprise entre 0 et 255.  
 

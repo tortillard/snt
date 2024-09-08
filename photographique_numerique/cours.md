@@ -27,7 +27,7 @@ Ce principe est similaire à celui du fonctionnement de nos yeux ou d'un apparei
 
 Au XXᵉ siècle, on utilise l'appareil photo argentique. Une pellicule argentique est composée de sels d'argent qui réagissent chimiquement lorsqu'ils sont exposés à la lumière, ce qui, après un certain temps, révèle l'image.
 
-Aujourd'hui, nos appareils ne sont pas argentiques mais numériques. Ils ne possèdent donc pas de pellicule qui réagit à la lumière...
+Aujourd'hui, nos appareils ne sont pas argentiques mais numériques. Ils ne possèdent donc pas de pellicule qui réagissent à la lumière...
 
 __Question : Comment un appareil numérique peut-il afficher une image sur un écran ?__
 

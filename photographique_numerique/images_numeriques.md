@@ -15,9 +15,9 @@ Cliquez sur le lien et répondez aux questions suivantes : https://unsplash.com/
 
 > __Q1__ :  Cliquez sur sur la flèche à coté de `télécharger gratuitement`. Il est possible de télécharger l'image en 4 définitions différentes. Lesquelles ? (en nombre de pixels)
 
-> __Q2__ : Certaines informations sont disponibles en desous de l'image. Donnez le nom de la license à laquelle est soumise cette image.   
+> __Q2__ : Certaines informations sont disponibles en desous de l'image. Donnez le nom de la _'license'_ à laquelle est soumise cette image.   
 
-> __Q3__ : Citez une autorisation et une interdiction avec cette license  
+> __Q3__ : Citez une autorisation et une interdiction avec cette _'license'_  
 
 
 ## Les pixels  
@@ -94,9 +94,7 @@ Pour stocker une image, il suffit de conserver les informations de chacun de ses
 > On peut dire que __$460,15 = 458,95$__  
 
 
-
 > __Q9__ : La figure 1 ci dessous représente une image où chaque carré représente un pixel. Donnez la taille (en pouces), la définition (en pixels) et la résolution (en ppp).  
 
 ![figure 1](../photographie_numerique/img_images_numeriques_md/snt_nathan_p_93_FIGURE_1.png)  
-
 

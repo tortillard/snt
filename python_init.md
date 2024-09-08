@@ -116,5 +116,6 @@ print(nombre_entree + 4)
 Écrivez un programme qui demande à l'utilisateur de rentrer la longueur et la largeur d'un rectangle. Et affiche la phrase suivante `"Le périmètre du rectangle est (perimetre)"`
 
 
-
-
+### Q10 
+Écrivez un programme qui demande à l'utilisateur de rentrer une température en degré Celsius et l'affiche en degré Farenheit.  
+ 

@@ -28,7 +28,7 @@ La couleur d'un pixel est définie par __trois composantes__ : le rouge (R), le 
 
 En ajustant l'intensité de chacune de ces trois couleurs, il est possible de créer toutes les teintes, selon le principe physique de la synthèse additive des couleurs.  
 
-<img src="../photographie_numerique/img_images_numeriques_md/additive.jpg" alt="additive" width="300"/>  
+<img src="img_images_numeriques_md/additive.jpg" alt="additive" width="300"/>  
 
 
 Pour stocker une image, il suffit de conserver les informations de chacun de ses pixels. Étant donné qu'un pixel est défini par ses trois composantes R, V et B, il suffit d'enregistrer ces trois valeurs pour chaque pixel.
@@ -42,7 +42,7 @@ Pour stocker une image, il suffit de conserver les informations de chacun de ses
 
 > __Q4__ : Le site https://htmlcolorcodes.com/fr/ permet de visualiser toutes les couleurs que l'on peut coder avec une profondeur de 24 bits.
 > Une partie est éditable pour entrer un code `RVB` (`RGB` en anglais) et voir à quelle couleur ce code correspond.   
-![code color](../photographie_numerique/img_images_numeriques_md/color_code.png)
+![code color](img_images_numeriques_md/color_code.png)
 > Reprenez l'exemple du code `RVB` de l'explication précédente, rentrez la valeur des composantes dans la partie éditable du site et dites si cette couleur est plus proche de la couleur d'une fraise, d'un bonbon à la menthe ou d'un poussin. 
 
 

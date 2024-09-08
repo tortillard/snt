@@ -1,0 +1,51 @@
+.rouge {
+	background-color: red;
+}
+.vert {
+	background-color: green;
+}
+.bleu {
+	background-color: blue;
+	color:white;
+}
+
+#img {
+	border:1px solid black;
+}
+
+#image, #numeros, h1 {
+	text-align:center;
+	
+}
+
+#boutons {
+	text-align:center;
+	border:black double 3px;
+	padding:10px;
+}
+
+.double {
+	display:inline-block;
+	margin:5px;
+}
+
+.red {
+	color: red;
+	text-align:center;
+}
+.green {
+	color: green;
+	text-align:center;
+}
+.blue {
+	color: blue;
+	text-align:center;
+}
+
+#couleurs, #nivGris, #mario, #filtres {
+	border:black solid 1px;
+	padding:5px;
+}
+
+
+

@@ -1,0 +1,81 @@
+<html>
+	<head>
+		<meta content="text/html; charset=UTF-8" http-equiv="content-type">
+		<title> Création d'image</title>
+		<link href="CSS/monFichierCSS.css" type="text/css" rel="stylesheet" media="screen">
+		<SCRIPT  type="text/javascript" SRC="javascript/monFichierJavascript.js"> </SCRIPT>
+	</head>
+	
+	<body>
+		<h1>L'image numérique</h1>
+		<div id="numeros">
+		</div>
+		</br>
+		</br>
+		</br>
+		<div id="image">
+			<canvas id="img" width="120" height="160">
+			</canvas>
+			
+		</div>
+		</br>
+		</br>
+		
+		
+		</br>
+		<div id="boutons">
+		    <h2>Modifications de l'image</h2>
+		    </br>
+
+			<div id="couleurs">
+				Pour changer tous les nombres dont la couleur est:</br>
+				<div class="double red">
+					rouge</br>
+					<input type="text" size='2' maxlength='3' id="red" value="255" class="rouges nombres red">
+				</div>
+				<div class="double green">
+					vert</br>
+					<input type="text" size='2' maxlength='3' id="green" value="255" class="verts nombres green">
+				</div>
+				<div class="double blue">
+					bleu</br>
+					<input type="text" size='2' maxlength='3' id="blue" value="255" class="bleus nombres blue">
+				</div>
+				<div class="valide">
+					<input type="button" id="bouton2" value="Valider">
+				</div>
+			</div>
+			</br>
+			
+
+			<div id="filtres">
+                Filtres <br/><br/>
+                <input type="checkbox" name="filtre" id="filtreRouge"><label for="filtreRouge">Rouge</label>
+                <input type="checkbox" name="filtre" id="filtreVert"><label for="filtreVert">Vert</label>
+                <input type="checkbox" name="filtre" id="filtreBleu"><label for="filtreBleu">Bleu</label>
+                <input type="checkbox" name="filtre" id="filtreCyan"><label for="filtreCyan">Cyan</label>
+                <input type="checkbox" name="filtre" id="filtreMagenta"><label for="filtreMagenta">Magenta</label>
+                <input type="checkbox" name="filtre" id="filtreJaune"><label for="filtreJaune">Jaune</label>
+			    <br/><br/>
+			    Luminosité :<input type="number" name="lumin" id="lumin" value="100" max="100" min="0" maxLength="3">%
+			 </div>
+
+			
+			<br/>
+			 <div id="nivGris">
+			    <input type="radio" name="filtre" id="niveauGris709"><label for="niveauGris709">Niveaux de Gris (recommandation 709)</label>
+			    <input type="radio" name="filtre" id="niveauGrisVert"><label for="niveauGrisVert">Niveaux de Gris (canal vert)</label>
+			    <input type="radio" name="filtre" id="niveauGrisMoyenne"><label for="niveauGrisMoyenne">Niveaux de Gris (moyenne min max)</label>
+                 <input type="radio" name="filtre" id="pasGris"><label for="pasGris">Pas de filtre gris</label>
+			 </div>
+			 </br>
+			 <div class="mario" id="mario">
+				<input type="button" id="bouton1" value="Mario">
+			</div>
+		</div>
+		
+		<div id="remarque">
+		</div>
+	</body>
+
+</html>

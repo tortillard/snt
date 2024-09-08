@@ -96,5 +96,5 @@ Pour stocker une image, il suffit de conserver les informations de chacun de ses
 
 > __Q9__ : La figure 1 ci dessous représente une image où chaque carré représente un pixel. Donnez la taille (en pouces), la définition (en pixels) et la résolution (en ppp).  
 
-![figure 1](../photographie_numerique/img_images_numeriques_md/snt_nathan_p_93_FIGURE_1.png)  
+![figure 1](photographie_numerique/img_images_numeriques_md/snt_nathan_p_93_FIGURE_1.png)  
 

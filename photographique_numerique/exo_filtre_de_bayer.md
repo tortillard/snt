@@ -9,4 +9,4 @@ On rappel que pour obtenir la couleur d'un pixel il faut 4 photosites donnant la
 
 Compléter le remplissage de la grille avec le code RVB. Pour la composante verte il faut effectuer la moyenne et prendre la valeur arrondie supérieure.  
 
-![exo à compléter](img/image_filtre_de_bayer_a_completer.png.png)  
+![exo à compléter](img/image_filtre_de_bayer_a_completer.png)  

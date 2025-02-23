@@ -154,7 +154,8 @@ Nous avons créé notre page web avec un fichier `html`. Pour définir le style 
 Une fois le fichier `css` créé, il faut le lier au fichier `html` de notre page afin que notre page suive les règles de style écrites dans notre fichier `css`.    
 
 
-> [!TIP] Pour cela, il faut que les fichiers html et css se situent au même endroit.  
+> [!TIP]   
+> Pour cela, il faut que les fichiers html et css se situent au même endroit.    
 > Ensuite, on ajoute le nom de notre fichier css dans l'attribut href de la balise `<link>`. La balise `<link>` se situe dans la balise `<head>` de notre fichier.  
 > Une fois le lien établi entre les 2 fichiers, on peut écrire des __règles de style__ dans notre fichier __CSS__ qui vont agir sur les éléments de notre fichier __HTML__.  
 

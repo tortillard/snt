@@ -28,9 +28,9 @@ Par exemple la balises `<p>` permet de définir un paragraphe.
 
 __Chaque balise à une fonction bien précise.__  
 
-### Glossaire des balises HTML
+## Glossaire des balises HTML
 
-#### Balise sur le texte  
+### Balise sur le texte  
 
 Certaines balises permettent de mettre en `gras` ou en `italique` du texte.  D'autres permettent de `surlignés` ou de `souligné` du texte. 
 
@@ -41,7 +41,7 @@ Il est <mark>important</mark> de <u>souligner</u> ses réponses lorsque l'on ré
 ```
 
 
-#### Les titres
+### Les titres
 
 Les __`titres`__. Il est possible de définir plusieurs niveaux de titre à l'aide des balises `<h1>`,`<h2>`,`<h3>`, `<h4>`, ... `<h6>`.  
 ```HTML
@@ -50,7 +50,7 @@ Les __`titres`__. Il est possible de définir plusieurs niveaux de titre à l'ai
 ...
 ```
 
-#### Les listes
+### Les listes
 
 Les __`listes`__. Il existe 2 types de listes en HTML, les listes ordonnées et les listes non ordonées.  
 On utilise la balise `<ol>` pour définir une liste ordonnée (Ordered List) et la balise `<ul>` pour définir une liste non ordonnée (Unordered List).  A l'intérieur de nos balises `<ul>` ou `<ol>` ont utilise la balise `<li>` pour écrire un élément de notre liste.  
@@ -86,7 +86,7 @@ On utilise la balise `<ol>` pour définir une liste ordonnée (Ordered List) et 
 </ol>
 ```
 
-#### Les liens hypertextes  
+### Les liens hypertextes  
 
 Les __`liens hypertextes`__. Il est possible de mettre un lien vers une page web à l'aide de la balise `<a>` et de l'attribut `href="https://le_lien_d_un_page.fr"`. 
 
@@ -94,7 +94,7 @@ Les __`liens hypertextes`__. Il est possible de mettre un lien vers une page web
 En 1960 Margaret Hamilton constituait une exception dans le milieu scientifique essentiellement masculin dans lesquels les postes de responsabilité technique étaient rarement attribués aux femmes. Pour plus d'informations vous pouvez cliquer<a href="">ici</a>
 ```
 
-#### Les images  
+### Les images  
 
 Les __`images`__. On peut intégrer une image avec la balise `<img>` et de l'attribut `src="nom_de_mon_image.png"`. Il faut veiller à ce que l'image qu'on souhaite intégrer se trouve au même endroit que notre fichier html, sinon il faut ajouter le chemin vers le dossier qui contient l'image dans l'attribut src. Par exemple `src="Documents/photo_de_vacances/Le_Port.png"`
 
@@ -103,7 +103,7 @@ Les __`images`__. On peut intégrer une image avec la balise `<img>` et de l'att
 ```
   
 
-#### Les vidéos  
+### Les vidéos  
 
 Les __`vidéos`__. On peut intégrer une vidéo à l'aide des balises `<video>` et `<sources>` puis en ajoutant le lien vers la vidéo avec l'attribut `src` dans la balise `<sources>`
 
@@ -113,7 +113,7 @@ Les __`vidéos`__. On peut intégrer une vidéo à l'aide des balises `<video>` 
 </video>
 ```
 
-#### Les tableaux  
+### Les tableaux  
 
 Les __`tableaux`__. On peut créer des tableaux en HTML à l'aide de la balise `<table>`. Il faut ensuite définir des lignes dans notre tableau à l'aide de la balise `<tr>`. Enfin il faut définir des cellules dans chaque lignes de notre tableau à l'aide de la balise `<td>`(ou `<th>` pour définir une en-tête).
 

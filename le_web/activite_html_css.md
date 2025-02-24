@@ -93,12 +93,16 @@ On utilise la balise `<ol>` pour définir une liste ordonnée (Ordered List) et 
 Les `liens hypertextes`. Il est possible de mettre un lien vers une page web à l'aide de la balise <a> et de l'attribut `href="https://le_lien_d_une_page.fr"`.
 
 ```HTML
-En 1960 Margaret Hamilton constituait une exception dans le milieu scientifique essentiellement masculin dans lesquels les postes de responsabilité technique étaient rarement attribués aux femmes. Pour plus d'informations vous pouvez cliquer<a href="">ici</a>
+En 1960, Margaret Hamilton constituait une exception dans le milieu scientifique. Pour plus d'informations vous pouvez cliquer<a href="https://fr.wikipedia.org/wiki/Margaret_Hamilton_(scientifique)">ici</a>
 ```
 
 ### Les images  
 
-Les `images`. On peut intégrer une image avec la balise `<img>` et l'attribut `src="nom_de_mon_image.png"`. Il faut veiller à ce que l'image que l'on souhaite intégrer se trouve au même endroit que notre fichier HTML ; sinon, il faut ajouter le chemin vers le dossier qui contient l'image dans l'attribut src. Par exemple : `src="Documents/photo_de_vacances/Le_Port.png"`.
+Les `images`. On peut intégrer une image avec la balise `<img>` et l'attribut `src="nom_de_mon_image.png"`. 
+Pour cela 2 solutions.   
+1. On peut se rendre sur internet et faire un clique droit sur une image, ensuite on sélectionne `Copier le lien de l'image` et on le colle dans `src="lien_vers_l_image"`.  
+
+2. Il faut veiller à ce que l'image que l'on souhaite intégrer se trouve au même endroit que notre fichier HTML ; sinon, il faut ajouter le chemin vers le dossier qui contient l'image dans l'attribut src. Par exemple : `src="Documents/photo_de_vacances/Le_Port.png"`.  
 
 ```HTML
 <img src="soleil.jpg">
@@ -107,13 +111,7 @@ Les `images`. On peut intégrer une image avec la balise `<img>` et l'attribut `
 
 ### Les vidéos  
 
-Les __`vidéos`__. On peut intégrer une vidéo à l'aide des balises `<video>` et `<source>`, puis en ajoutant le lien vers la vidéo avec l'attribut `src` dans la balise `<source>`.
-
-```HTML
-<video>
-    <source src="spectacle_de_fin_d_annee.mp4" type="video/mp4">
-</video>
-```
+Les __`vidéos`__. Il est possible d'intégrer une vidéo youtube à notre page web. Pour cela il suffit d'aller sur youtube, cliquer sur la vidéo de notre choix, puis faire un clique droit sur la vidéo et sélectionner `Copier le code d'intégration` et le coller dans notre code HTML.
 
 ### Les tableaux  
 

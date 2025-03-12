@@ -162,7 +162,7 @@ Une fois le fichier `css` créé, il faut le lier au fichier `html` de notre pag
 
 En CSS, pour agir sur le style de notre page web, il faut définir des __règles__.
 
-On définit une __règle__ en notant le nom de la balise sur laquelle on souhaite agir. Puis, on ouvre des accolades `{ }`, dans lesquelles on vient écrire les propriétés de notre élément ainsi que la __valeur__ que l'on souhaite lui attribuer.
+On définit une __règle__ en notant le nom de la balise sur laquelle on souhaite agir. Puis, on ouvre des accolades `{ }`, dans lesquelles on vient écrire les __propriétés__ de notre élément ainsi que la __valeur__ que l'on souhaite lui attribuer.
 
 Ici, le code __CSS__ suivant agit sur tous les éléments contenus dans la balise `<body>`. La propriété `color` agit sur la couleur du texte ; ici, le texte sera rouge. La propriété `background-color` agit sur la couleur de fond. Enfin, `font-size` permet de modifier la taille du texte.
 
@@ -174,7 +174,119 @@ body {
 }
 ```  
 
+Il est possible de définir des règles CSS pour __toutes__ les balises de notre fichier HTML. (`body`,`h1`,`h2`,`u`,`i`, etc ... ).  
 
+## Glossaire des propriétés CSS  
+
+### Couleur d'un texte
+
+On peut définir la couleur d'un texte avec la propriété `color`. Les valeurs peuvent être le nom d'une couleur en anglais ou encore un code rgb. (on peut trouver le code rgb d'une couleur sur ce [ce site](https://htmlcolorcodes.com/fr/))
+
+```css
+    p {
+      color: blue;
+    }
+```
+
+### Couleur de fond  
+On peut définir la couleur de fond d'un élément avec la propriété `background-color`. Les valeurs sont les mêmes que pour `color`.
+
+```css
+    body {
+      background-color: lightgray;
+    }
+```
+
+### Taille de la police  
+
+La taille de la police du texte peut être modifiée avec la propriété `font-size`. Les valeurs sont un nombre suivie de `px`. 
+
+```css
+    h1 {
+      font-size: 24px;
+    }
+```
+
+### Définir une image de fond 
+
+Pour changer l'arrière-plan d'un élément en utilisant une image en CSS, on peut utiliser la propriété `background-image`.
+
+```css
+body {
+  background-image: url('chemin/vers/l-image.jpg');
+}
+```
+
+Voici un schéma qui montre comment chaque élément en css est constitué.   
+<img src="img/explications_margin_border_padding" alt="explications" width="30%"/>
+
+### Encadré  
+
+Il est possible d'encadrer un élément en lui ajoutant une bordure, pour cela on utilise la propriété `border` en ajoutant la valeur :
+   - `solid` : Pour une bordure pleine.
+  - `dashed` : Pour une bordure en pointillés.
+  - `dotted` : Pour une bordure en points.
+  - `double` : Pour une bordure double.
+ 
+On peut ensuite ajouter un espace suivi du nom de la couleur de notre bordure.
+
+```css
+p {
+  border: solid red;
+}
+```
+
+
+### Espace en dehors d'un élément
+
+On peut définir l'espace extérieur autour d'un élément à l'aide de la propriété `margin`.  
+
+```css
+    p {
+      margin: 20px; /* ajoute un espace de 20 pixels autour des éléments p */
+    }
+
+    h1 {
+      margin: 20px 40x; /* ajoute un espace de 20 pixels verticalement et 40px horizontalement autour des éléments p */
+    }
+```
+
+
+### Espace à l'intérieur d'un élément
+
+On peut définir l'espace à l'intérieur d'un élément à l'aide de la propriété `padding`.  
+    
+```css
+    p {
+      padding: 15px; /* Ajoute un espace de 15 pixels à l'intérieur des éléments p*/
+    }
+```
+
+
+### Alignement du texte
+
+On péut définir l'alignement du texte à l'intérieur d'un élément avec `text-align`.
+`text-align` peut prendre différentes valeurs(`left`, `right`, `center`, ...) :
+
+
+```css
+    h2 {
+      text-align: center; /* Cela centrera le texte des titres <h2>. */
+    }
+```
+   
+### Largeur et hauteur d'un élément 
+
+La propriété `width` définit la largeur et la propriété `height` définit la hauteur d'un élément.
+    
+
+```css
+    p {
+        width: 300px; /* fixe la largeur des éléments p à 300 pixels. */
+        height: 200px; /* fixe la hauteur des éléments p à 200 pixels. */
+    }
+```
+    
 
 
 > [!NOTE]

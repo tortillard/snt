@@ -38,7 +38,7 @@ Certaines balises permettent de mettre en `gras` ou en `italique` du texte. D'au
 ```HTML
 Voici du texte en <b>gras</b> et voici du texte en <i>italique</i>
 
-Il est <mark>important</mark> de <u>souligner</u> ses réponses lorsque l'on répond à une question. 
+Il est important de <u>souligner</u> et de <mark>surligner</mark> ses réponses lorsque l'on répond à une question. 
 ```
 
 
@@ -140,7 +140,7 @@ Les __`tableaux`__. On peut créer des tableaux en HTML à l'aide de la balise `
 
 ## CSS  
 
-Le langage __CSS__ (Cascading Style Sheet) permet de se concentrer sur la forme de notre page web.
+Le langage __CSS__ (Cascading Style Sheet) permet de se concentrer sur la __forme__ de notre page web.
 
 Ces 2 langages vont très souvent de pair puisqu'une fois que le contenu de notre page est écrit, on souhaite modifier son apparence.    
 C'est dans le code CSS que l'on précise, par exemple, la couleur de notre texte, la taille que doit prendre une image ou encore si l'on veut positionner une vidéo en haut à droite de notre page.

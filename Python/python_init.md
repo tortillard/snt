@@ -1,14 +1,8 @@
 # Initiation Python  
 
 ## Environnement  
-Pour programmer en Python, nous allons nous rendre sur __Capytale__.  
-Vous devez aller sur le site https://www.atrium-sud.fr/ et vous connecter avec vos identifiants.  
-
-__SI VOUS NE PARVENEZ PAS À VOUS CONNECTER : Cliquez sur le site https://console.basthon.fr/ et rendez-vous à la section 'Modalités' directement__ 
-
-Une fois connecté sur Atrium, rendez-vous en haut dans l'onglet _Enseignement_ et cliquez sur _Capytale_. 
-En haut de la page se trouve une zone nommée _Accéder à une activité_ copiez et collez le code suivant dans cette zone __7556-3825691__.  
-
+Pour programmer en Python, il faut ouvrir un éditeur de texte dédié. 
+En général nous utilisons Thonny.
 
 
 ## Modalités  

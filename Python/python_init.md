@@ -9,34 +9,34 @@ En général nous utilisons Thonny.
 Le but de ce tp est de vous faire découvrir Python.  
 
 Voilà comment vous allez répondre aux questions : 
-    - Vous allez écrire votre code dans la partie __script__. La partie __console__ va vous permettre de tester le code écrit dans la partie __script__.  
-    - Pour marquer que le code que vous avez écrit correspond à la question 1 (par exemple) voici ce que vous devez écrire.   
+- Vous allez écrire votre code dans la partie __script__. La partie __console__ va vous permettre de tester le code écrit dans la partie __script__.   
+- Pour marquer que le code que vous avez écrit correspond à la question 1 (par exemple) voici ce que vous devez écrire.   
     
-    ```Python
-    # Question 1
-    blabla code
-    Python
-    qui
-    répond à la question 1
-    blabla
-    ```
-    - Une fois que vous avez fini de répondre à une question vous allez ajoutez le symbole `#` devant les lignes de code que vous avez écrites. Cela permet de conserver votre code dans le fichier mais de ne pas être 'compris' par Python. Cela doit donner quelque chose comme ça.  
-    ```Python
-    # Question 1
-    # blabla code
-    # Python
-    # qui
-    # répond à la question 1
-    # blabla
+```Python
+# Question 1
+blabla code
+Python
+qui
+répond à la question 1
+blabla
+```
+- Une fois que vous avez fini de répondre à une question vous allez ajoutez le symbole `#` devant les lignes de code que vous avez écrites. Cela permet de conserver votre code dans le fichier mais de ne pas être 'compris' par Python. Cela doit donner quelque chose comme ça.  
+```Python
+# Question 1
+# blabla code
+# Python
+# qui
+# répond à la question 1
+# blabla
 
-    # Question 2
-    blabla code
-    Python
-    qui
-    répond à la question 2
-    blabla
-    ```
-    - Des questions ? On lève la main et on demande au professeur !  
+# Question 2
+blabla code
+Python
+qui
+répond à la question 2
+blabla
+```
+- Des questions ? On lève la main et on demande au professeur !  
 
 ## TP  
 Informations utiles : 

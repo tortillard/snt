@@ -9,21 +9,24 @@ Nous aborderons également les concepts de __définition__ et de __profondeur de
 
 
 > [!TIP] 
-> Dimensions d'une image 
+> __Dimensions d'une image__  
 > On appelle définition d'une image le nombre de pixels qu'elle contient. 
 > Par exemple, une image contenant 1920 pixels en largeur et 1080 pixels en hauteur possède une définition de 2 073 600 pixels ou 2,07 Mégapixels (1920 × 1080 = 2 073 600).
 
 Cliquez sur le lien et répondez aux questions suivantes : https://unsplash.com/fr/photos/une-vue-aerienne-de-la-plage-et-des-rochers-dans-locean-Jfv_zYfLC04
 
-> [!IMPORTANT] Q1
+> [!IMPORTANT] 
+> __Q1__  
 > Cliquez sur sur la flèche à coté de `télécharger gratuitement`. 
 > Il est possible de télécharger l'image en 4 définitions différentes. Lesquelles ? (en nombre de pixels)
 
-> [!IMPORTANT] Q2
+> [!IMPORTANT] 
+> __Q2__  
 > Certaines informations sont disponibles en desous de l'image.
 > Donnez le nom de la _'license'_ à laquelle est soumise cette image.   
 
-> [!IMPORTANT] Q3
+> [!IMPORTANT] 
+> __Q3__  
 > Citez une autorisation et une interdiction avec cette _'license'_  
 
 
@@ -40,7 +43,8 @@ En ajustant l'intensité de chacune de ces trois couleurs, il est possible de cr
 
 Pour stocker une image, il suffit de conserver les informations de chacun de ses pixels. Étant donné qu'un pixel est défini par ses trois composantes R, V et B, il suffit d'enregistrer ces trois valeurs pour chaque pixel.  
 
-> [!TIP] Profondeur de couleur d'une image 
+> [!TIP] 
+> __Profondeur de couleur d'une image__  
 > La profondeur de couleur d'une image correspond au nombre de bits utilisés pour coder la couleur de chaque pixel.  
 > Les images en couleur standards ont généralement une profondeur de 24 bits (soit 3 $\times$ 8 bits).    
 > Chaque octet(groupe de 8 bits) correspond à une composante (Rouge, verte ou bleu) avec des valeurs entières comprises entre 0 et 255.   
@@ -49,7 +53,8 @@ Pour stocker une image, il suffit de conserver les informations de chacun de ses
 Le site https://htmlcolorcodes.com/fr/ permet de visualiser toutes les couleurs que l'on peut coder avec une profondeur de 24 bits.  
 ![code color](img_images_numeriques_md/color_code.png)  
 
-> [!IMPORTANT] Q4  
+> [!IMPORTANT] 
+> __Q4__    
 > Aller sur le site https://htmlcolorcodes.com/fr/.  
 > Comme sur la photo précédente, cliquer afin de mettre le mode RGB(ou RVB).   
 > Vous pouvez maintenant voir que les nombres `245`, `73` et `39` sont modifiables, pour cela il suffit de double-cliquez sur ces nombres et changer de valeur, puis entrée.     
@@ -64,7 +69,8 @@ Le site https://htmlcolorcodes.com/fr/ permet de visualiser toutes les couleurs 
 > Une couleur est __pure__ si chaque composante `R`,`V` ou `B` est égal à `0` ou `255`.    
 > Par exemple, le code `RVB` du rouge __pure__ est `(255, 0, 0)`.   
 
-> [!IMPORTANT] Q5 
+> [!IMPORTANT] 
+> __Q5__  
 > Quel code `RVB` permet d'obtenir les couleurs __pure__ suivantes. 
 > (Si cela vous aide vous pouvez utiliser les ressources précédentes pour vous aider à répondre.)  
 > - Bleu 
@@ -74,14 +80,16 @@ Le site https://htmlcolorcodes.com/fr/ permet de visualiser toutes les couleurs 
 > - Cyan 
 
 
-> [!IMPORTANT] Q6  
+> [!IMPORTANT] 
+> __Q6__  
 > Reprenez le site https://htmlcolorcodes.com/fr/.  
 > Que se passe-t-il lorsque chaque composante `RVB` possède la même valeur ?  
 > Essayez de mettre toutes les valeurs à 123.  
 > Puis essayez de mettre toutes les à 200.  
 
 
-> [!IMPORTANT] Q7
+> [!IMPORTANT] 
+> __Q7__  
 > Nous allons calculer la taille de l'image de la question 1 en octet. 
 > Pour calculer la taille d'une image(ou d'un fichier) il faut compter son nombre de bits(ou d'octets)
 > On rappel que __1 octet = 8 bits__, __2 octets = 16 bits__, etc...
@@ -90,7 +98,8 @@ Le site https://htmlcolorcodes.com/fr/ permet de visualiser toutes les couleurs 
 > Calculez la taille de cette image en bits ? Puis en octets ? 
 
 
-> [!IMPORTANT] Q8
+> [!IMPORTANT] 
+> __Q8__  
 > En utilisant une profondeur de couleur de 24 bits. 
 > Combien de couleurs distinctes peut-on obtenir avec le système RVB ? __Expliquez votre réponse__.
 

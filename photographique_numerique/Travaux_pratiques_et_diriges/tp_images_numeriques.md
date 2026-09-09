@@ -107,11 +107,13 @@ Le site https://htmlcolorcodes.com/fr/ permet de visualiser toutes les couleurs 
 ## Résolution d'une image  
 
 
-> [!TIP] Dimensions d'une image   
+> [!TIP] 
+> __Dimensions d'une image__   
 > Les dimensions d'une image sont sa largeur et sa hauteur exprimées en pouces, une unité de mesure anglo-saxonne.
 > Un pouce équivaut à 2,54 cm, et son symbole est « " ».  
 
-> [!TIP] Résolution d'une image  
+> [!TIP] 
+> __Résolution d'une image__  
 > La __résolution__ d'une image pour l'affichage à l'écran correspond au nombre de pixels par pouce(ppp)ou en anglais pixels per inch(ppi).  
 > La résolution représente donc le nombre de pixels contenus sur un pouce de longueur.  
 > La résolution peut être déterminée grâce à l'une des deux formules suivantes.  
@@ -119,8 +121,8 @@ Le site https://htmlcolorcodes.com/fr/ permet de visualiser toutes les couleurs 
 
 
 > [!NOTE]
-> Exemple de calcul : 
-> 
+> Exemple de calcul  
+> On prend un écran avec les caractéristiques suivantes  
 > Hauteur de l'écran : 15,33 cm   
 > Largeur de l'écran : 6,77 cm  
 > Définition de l'écran : 2 770 x 1 224 pixels  
@@ -138,7 +140,8 @@ Le site https://htmlcolorcodes.com/fr/ permet de visualiser toutes les couleurs 
 > On peut dire que __$460,15 = 458,95$__    
 
 
-> [!IMPORTANT] Q9
+> [!IMPORTANT] 
+> __Q9__
 > La figure 1 ci dessous représente une image où chaque carré représente un pixel. 
 > Donnez la taille (en pouces), la définition (en pixels) et la résolution (en ppp).  
 

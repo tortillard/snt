@@ -141,9 +141,18 @@ Le site https://htmlcolorcodes.com/fr/ permet de visualiser toutes les couleurs 
 
 
 > [!IMPORTANT] 
-> __Q9__
+> __Q9__  
 > La figure 1 ci dessous représente une image où chaque carré représente un pixel. 
-> Donnez la taille (en pouces), la définition (en pixels) et la résolution (en ppp).  
+> Donnez la __taille__ (en pouces), la définition (en pixels) et la résolution (en ppp).  
+
+> [!IMPORTANT] 
+> __Q9__  
+> Donnez la __définition__ (en pixels) de cette image
+
+> [!IMPORTANT] 
+> __Q10__  
+> Donnez la __résolution__ (en ppp).  
+
 
 ![figure 1](img_images_numeriques_md/snt_nathan_p_93_FIGURE_1.png)  
 

@@ -8,7 +8,8 @@ Nous définirons ce qu'est un pixel et comment les pixels d'une image en couleur
 Nous aborderons également les concepts de __définition__ et de __profondeur de couleur__ d'une image numérique, ainsi que ceux de __résolution__ et de __taille__ d'image.  
 
 
-> [!TIP] Dimensions d'une image 
+> [!TIP] 
+> Dimensions d'une image 
 > On appelle définition d'une image le nombre de pixels qu'elle contient. 
 > Par exemple, une image contenant 1920 pixels en largeur et 1080 pixels en hauteur possède une définition de 2 073 600 pixels ou 2,07 Mégapixels (1920 × 1080 = 2 073 600).
 

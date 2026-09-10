@@ -46,11 +46,15 @@ Pour enregistrer une image, il suffit de conserver les informations de __chacun 
 Étant donné qu'un pixel est défini par ses trois composantes `R`, `V` et `B`, il suffit d'enregistrer ces trois valeurs pour chaque pixel.  
 
 > [!TIP] 
-> __Profondeur de couleur d'une image__  
+> __Profondeur de couleur d'une image__   
 > La profondeur de couleur d'une image correspond au nombre de bits utilisés pour coder la couleur de chaque pixel.  
-> Les images en couleur standards ont généralement une profondeur de 24 bits (Comme on à 3 composantes R,V et B, on utilise 8 bits pour chaque composante soit 3 $\times$ 8 = 24 bits).      
+> Les images en couleur standards ont généralement une profondeur de 24 bits.  
+> Pourquoi 24 bits ? Comme on à 3 composantes R,V et B, on utilise 8 bits pour chacune de ces composantes, soit 3 $\times$ 8 = 24 bits.      
 > Un groupe de 8 bits est appelé un octet. 
-> Chaque octet correspond à une composante (Rouge, verte ou bleu) avec des valeurs entières comprises entre 0 et 255.   
+> Une image avec 1 pixel aura donc une taille de 24 bits(soit 3 octets)  
+> Une image avec 2 pixel aura donc une taille de 48 bits(soit 6 octets)  
+> Chaque octet correspond à une composante (Rouge, verte ou bleu) avec des valeurs entières comprises entre 0 et 255.  
+> (Le programme de première nsi nous apprends pourquoi la valeur maximale est 255)   
 > Par conséquent, __la couleur d'un pixel est exprimée sous la forme d'un triplet (R, V, B), comme par exemple `(51, 255, 141)` , où `R = 51, V = 255 et B = 141`__.  
 
 
@@ -106,8 +110,13 @@ Le site https://htmlcolorcodes.com/fr/ permet de visualiser toutes les couleurs 
 
 > [!IMPORTANT] 
 > __Q8__  
-> En utilisant une profondeur de couleur de 24 bits. 
-> Combien de couleurs distinctes peut-on obtenir avec le système RVB ? __Expliquez votre réponse__.
+> Le code `RVB` possède 3 composantes pouvant aller de `0` à `255`.  
+> La première couleur qu'il est possible de coder est celle qui possède le code `(0, 0, 0)`  
+> La seconde couleur possède le code `(0, 0, 1)` 
+> etc..  
+> La dernière couleur possède le code `(255, 255, 255)`  
+> 
+> Combien de couleurs distinctes peut-on obtenir avec le système `RVB` ? __Expliquez votre réponse__.
 
 
 ## Résolution d'une image  

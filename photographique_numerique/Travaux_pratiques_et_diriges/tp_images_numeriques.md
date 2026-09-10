@@ -124,15 +124,17 @@ Le site https://htmlcolorcodes.com/fr/ permet de visualiser toutes les couleurs 
 
 > [!TIP] 
 > __Dimensions d'une image__   
-> Les dimensions d'une image sont sa largeur et sa hauteur exprimées en pouces, une unité de mesure anglo-saxonne.
+> Les dimensions d'une image sont sa largeur et sa hauteur exprimées en pouces, une unité de mesure anglo-saxonne.  
 > Un pouce équivaut à 2,54 cm, et son symbole est « " ».  
 
 > [!TIP] 
 > __Résolution d'une image__  
-> La __résolution__ d'une image pour l'affichage à l'écran correspond au nombre de pixels par pouce(ppp)ou en anglais pixels per inch(ppi).  
-> La résolution représente donc le nombre de pixels contenus sur un pouce de longueur.  
+> La __résolution__ d'une image correspond au nombre de pixels par pouce(ppp)ou en anglais pixels per inch(ppi).  
+> La résolution représente donc le nombre de pixels contenus sur un pouce, c'est à dire sur `2,54cm`.   
 > La résolution peut être déterminée grâce à l'une des deux formules suivantes.  
-> $resolution = \frac{\texttt{nb pixels largeur}}{\texttt{largeur en pouce}}$ = $\frac{\texttt{nb pixels hauteur}}{\texttt{hauteur en pouce}}$  
+> $resolution = \frac{\texttt{nb pixels largeur}}{\texttt{largeur en pouce}}$ = $\frac{\texttt{nb pixels hauteur}}{\texttt{hauteur en pouce}}$   
+> On peut donc utiliser la largeur ou la hauteur de l'image pour déterminer sa résolution.  
+
 
 
 > [!NOTE]
@@ -144,9 +146,11 @@ Le site https://htmlcolorcodes.com/fr/ permet de visualiser toutes les couleurs 
 > 
 > __On souhaite donner en pixels par pouce la résolution de l'écran__     
 > Pour cela, on reprends la formule permettant de calculer la résolution.  
+> Au hasard on choisit la formule concernant la largeur.  
 > $resolution = \frac{\texttt{nb pixels largeur}}{\texttt{largeur en pouce}}$  
 > 
 > Dans les caractéristique on voit que l'écran possède  __1224 pixels en largeur__.  
+> On note $resolution = \frac{\texttt{1224}}{\texttt{largeur en pouce}}$  
 > 
 > Il nous manque maintenant la largeur en pouce de l'écran.  
 > Dans les caractéristique on voit que l'écran possède une __largeur de 6,77 cm__.     

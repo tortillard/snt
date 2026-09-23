@@ -11,4 +11,3 @@ Quelques chose comme ceci devrait apparaitre.
 
 
 ## TP  
-!

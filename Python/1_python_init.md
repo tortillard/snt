@@ -89,11 +89,16 @@ Affichez la phrase `je m'appel (prenom) et j'ai (age) ans`. En remplaçant les m
 > Puis qui affiche le résultat de la formule suivante : $(3 \times x) + (5**x)$  
 
 > [!IMPORTANT] Q10      
+> Écrivez un programme qui demande à l'utilisateur de donner 3 notes sur 20.
+> Puis qui affiche la moyenne de ces 3 notes.    
+
+
+> [!IMPORTANT] Q11      
 > En vous aidant des questions précédentes, écrivez un programme qui demande à l'utilisateur de rentrer la longueur et la largeur d'un rectangle.   
 > Puis qui affiche la phrase suivante `"Le périmètre du rectangle est (perimetre)"`  
 
 
-> [!IMPORTANT] Q11 
+> [!IMPORTANT] Q12 
 > Écrivez un programme qui demande à l'utilisateur de rentrer une température en degré Celsius et qui l'affiche en degré Farenheit.  
 
  

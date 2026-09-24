@@ -11,17 +11,20 @@ Quelques chose comme ceci devrait apparaitre.
 
 ## TP  
 
-> [!TIP] Astuces
+> [!TIP] 
+> __Astuces__
 > La fonction `print()` permet d'afficher un message dans la partie console. Il suffit de mettre entre les parenthèses ce que l'on souhaite afficher.  
 > Les chaînes de caractères(ou phrase) en Python se définissent entre guillemets `"` par exemple voici une phrase. `"Bonjour tout le monde !"`  
 > Les nombres n'ont pas besoin de symbole pour être définis. Le nombre `2` sera compris si on l'écrit directement.  
 
-> [!IMPORTANT] Q1  
+> [!IMPORTANT] 
+> __Q1__  
 > Nous allons écrire du code Python qui permet d'afficher une phrase(ou chaine de caractères).  
 > Dans la zone script, tapez le code suivant et remplacez prénom par votre prénom : `"Bonjour, je m'appelle prénom"`.  
 > Cliquez sur le bouton vert en haut qui permet d'exécutez le code, puis observez.    
 
-> [!IMPORTANT] Q2  
+> [!IMPORTANT]
+> __Q2__  
 > Le langage Python permet de manipuler les nombres un peu comme une calculatrice. 
 > A la manière de la __Q1__, afficher le résultat de chaque opérateur entre `-3` et `2`.  
 > Voici les opérateurs : 

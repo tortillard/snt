@@ -42,7 +42,8 @@ Quelques chose comme ceci devrait apparaitre.
 > Par ailleurs il est possible de séparer des chaînes de caractères et des variables par une `,` dans la fonction `print()`.    
 >  Cela a pour effet de '_coller_' le tout et de créer une nouvelle chaînes de caractères.    
 
-> [!IMPORTANT] Q3  
+> [!IMPORTANT]
+> __Q3__  
 > Copiez puis collez le code suivant. 
 > Analysez le, puis observer ce qu'il affiche.  
 > ```Python
@@ -51,11 +52,13 @@ Quelques chose comme ceci devrait apparaitre.
 > print("Au marché j'ai acheté", a, "joli", b)
 > ```
 
-> [!IMPORTANT] Q4  
+> [!IMPORTANT] 
+> __Q4__    
 > Stockez dans une variable `a` le nombre `7` et dans une variable `b` le nombre `-5` et affichez à la manière de la __Q3__ la phrase `la somme de 7 et -5 est 2`   
 
-> [!IMPORTANT] Q5   
-Affichez la phrase `je m'appel (prenom) et j'ai (age) ans`. En remplaçant les mots entre parenthèses par des variables.   
+> [!IMPORTANT]
+> __Q5__   
+> Affichez la phrase `je m'appel (prenom) et j'ai (age) ans`. En remplaçant les mots entre parenthèses par des variables.    
 
 
 > [!TIP]
@@ -63,7 +66,8 @@ Affichez la phrase `je m'appel (prenom) et j'ai (age) ans`. En remplaçant les m
 > Le programme s'arrête et attend que l'utilisateur écrive quelque chose, puis appuie sur "Entrée".
 > __ATTENTION__ Ce que l'utilisateur tape est renvoyé sous forme de chaîne de caractères. Si on veut pouvoir manipuler un nombre entré par l'utilisateur il faut le convertir, pour ça on utilise la fonction `int()`.
 
-> [!IMPORTANT] Q6  
+> [!IMPORTANT] 
+> __Q6__  
 > Copiez puis collez le code suivant. 
 > Analysez le, puis observer ce qu'il affiche.  
 > ```Python
@@ -71,7 +75,8 @@ Affichez la phrase `je m'appel (prenom) et j'ai (age) ans`. En remplaçant les m
 > print(nombre_entree)
 > ``` 
 
-> [!IMPORTANT] Q7  
+> [!IMPORTANT]
+> __Q7__  
 > Copiez puis collez le code suivant. 
 > Analysez le, puis observer ce qu'il affiche.  
 > ```Python
@@ -79,7 +84,8 @@ Affichez la phrase `je m'appel (prenom) et j'ai (age) ans`. En remplaçant les m
 > print(nombre_entree + 4)
 > ``` 
 
-> [!IMPORTANT] Q8    
+> [!IMPORTANT]
+> __Q8__    
 > Copiez puis collez le code suivant. 
 > Analysez le, puis observer ce qu'il affiche.  
 > ```Python
@@ -87,21 +93,25 @@ Affichez la phrase `je m'appel (prenom) et j'ai (age) ans`. En remplaçant les m
 > print(nombre_entree + 4)
 > ```
 
-> [!IMPORTANT] Q9      
+> [!IMPORTANT]
+> __Q9__      
 > Écrivez un programme qui demande à l'utilisateur de donner une valeur pour x.
 > Puis qui affiche le résultat de la formule suivante : $(3 \times x) + (5**x)$  
 
-> [!IMPORTANT] Q10      
+> [!IMPORTANT]
+> __Q10__      
 > Écrivez un programme qui demande à l'utilisateur de donner 3 notes sur 20.
 > Puis qui affiche la moyenne de ces 3 notes.    
 
 
-> [!IMPORTANT] Q11      
+> [!IMPORTANT]
+> __Q11__      
 > En vous aidant des questions précédentes, écrivez un programme qui demande à l'utilisateur de rentrer la longueur et la largeur d'un rectangle.   
 > Puis qui affiche la phrase suivante `"Le périmètre du rectangle est (perimetre)"`  
 
 
-> [!IMPORTANT] Q12 
+> [!IMPORTANT] 
+> __Q12__ 
 > Écrivez un programme qui demande à l'utilisateur de rentrer une température en degré Celsius et qui l'affiche en degré Farenheit.  
 
  

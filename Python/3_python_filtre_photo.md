@@ -1,6 +1,4 @@
 # Tp filtre photographie 
 
 
-- Aller sur le site ent hdf en cliquant : [ici](https://enthdf.fr/)     
-- Cherchez dans les applications en bas celle nomée 'Capytale'  
-- Recopiez le code du professeur en haut à gauche pour accéder à l'activité 
+- Connectez vous sur HDF et réalisez l'activité qui se trouve : [ici](https://capytale2.ac-paris.fr/web/c/a68c-12300817/hdf)

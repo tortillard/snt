@@ -4,7 +4,8 @@
 > En Python on peut utiliser le mot clé `if` pour signaler qu'une suite d'instrucions va être exécuté si une condition est vraie.   
 
 
-> [!IMPORTANT] Q1  
+> [!IMPORTANT] 
+> __Q1__   
 > Testez le code suivant. Que se passe t-il lorsque vous changez la valeur de age ?   
 > ```Python 
 > age = 13
@@ -18,7 +19,8 @@
 > On utilise `elif` si on à une autre condition à tester.  
 
 
-> [!IMPORTANT] Q2 
+> [!IMPORTANT] 
+> __Q2__  
 > Testez le code suivant. Que se passe t-il lorsque vous changez la valeur de age ?   
 > ```Python 
 > age = 13
@@ -31,7 +33,8 @@
 > [!TIP]
 > On utilise `else` lorsqu'on souhaite exécuter des instructions si aucune conditions précédentes n'a été valide.   
 
-> [!IMPORTANT] Q3
+> [!IMPORTANT] 
+> __Q3__  
 > Testez le code suivant.   
 > ```Python 
 > age = 13
@@ -45,7 +48,8 @@
 > On peut évidemment utiliser les `elif` et les `else` ensemble.     
 
 
-> [!IMPORTANT] Q4  
+> [!IMPORTANT] 
+> __Q4__  
 > Testez le code suivant.  Que se passe t-il lorsque vous changez la valeur de age ? 
 > ```Python 
 > age = 13
@@ -57,22 +61,27 @@
 >     print("c'est fini l'école !")
 > ```
 
-> [!IMPORTANT] Q5 
+> [!IMPORTANT] 
+> __Q5__  
 > En vous inspirant du code des questions précédentes.   
 > Écrivez un programme qui demande à un utilisateur son age (voir fonction `input`) et qui affiche `"majeur"` ou `"mineur"` selon l'âge entré.   
 
 
-> [!IMPORTANT] Q6
+> [!IMPORTANT] 
+> __Q6__  
 > Écrivez un programme qui demande à un utilisateur de saisir deux nombres. Affiche si le premier nombre est plus grand, plus petit, ou égal au second nombre.  
 
-> [!IMPORTANT] Q7
+> [!IMPORTANT] 
+> __Q7__
 > Écrivez un programme qui demande à un utilisateur de saisir un nombre entier. Affiche `"Pair"` si le nombre est divisible par 2, sinon affiche `"Impair"`.  
 
-> [!IMPORTANT] Q8  
+> [!IMPORTANT] 
+> __Q8__  
 > Écrivez un programme qui demande à un utilisateur un numéro entre 1 et 7, puis affiche le jour correspondant (1 pour "Lundi", 2 pour "Mardi", etc.).  
 >  Si le nombre n'est pas compris entre 1 et 7, affiche `"Numéro invalide"`.     
 
-> [!IMPORTANT] Q9  
+> [!IMPORTANT] 
+> __Q9__  
 > Écrivez un programme qui demande à un utilisateur de saisir une note sur 20. Selon la note, affiche l'appréciation suivante :   
 > - Si la note est supérieure ou égale à 16 : "Très bien"  
 > - Si la note est entre 12 et 15 : "Bien"  
@@ -80,7 +89,8 @@
 > - Si la note est inférieure à 8 : "Insuffisant"  
 
 
-> [!IMPORTANT] Q10  
+> [!IMPORTANT] 
+> __Q10__  
 > Écrivez un programme qui demande à l'utilisateur deux nombres ainsi qu'une opération à effectuer parmi les suivantes : addition, soustraction, multiplication, division, ou puissance.     
 > Le programme doit alors calculer et afficher le résultat en fonction de l'opération choisie.  
 > Si l'utilisateur entre une opération non valide, affiche un message d'erreur.  

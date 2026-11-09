@@ -58,7 +58,7 @@ Quelques chose comme ceci devrait apparaitre.
 
 > [!IMPORTANT]
 > __Q5__   
-> Affichez la phrase `je m'appel (prenom) et j'ai (age) ans`. En remplaçant les mots entre parenthèses par des variables.    
+> Affichez la phrase `je m'appelle (prenom) et j'ai (age) ans`. En remplaçant les mots entre parenthèses par des variables.    
 
 
 > [!TIP]

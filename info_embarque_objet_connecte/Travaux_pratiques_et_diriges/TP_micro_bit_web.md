@@ -2,7 +2,8 @@
 
 Dans ce TP, nous allons programmer un objet connecté : __une carte microbit__  
 
-> [!TIP] __Généralités__
+> [!TIP] 
+> __Généralités__
 > 1. Une carte microbit est un objet programmable. Nous n'avons pas de vraie carte donc nous nous contenterons d'en simuler une en allant sur le site [Makecode](https://makecode.microbit.org/)  
 > 2. Pour __chaque__ Question du TP nous allons créer un noueau projet.(aucune autre possibilité pour sauvegarder son programme)      
 > Cliquez sur __"Nouveau projet"__ puis nommez celui-ci __Q1__.(Par la suite il faudra créer un projet nommé __Q2__ etc...)  
@@ -11,7 +12,8 @@ Dans ce TP, nous allons programmer un objet connecté : __une carte microbit__
 >   - `"au démarrage"`  
 >   - `"toujours"` : l'endroit où nous poserons chaque bloc
 
-> [!TIP] Q1
+> [!TIP] 
+> __Q1__
 > Dans la section __"LED"__ prenez le bloc `allumer x 0 y 0` puis placez le dans le bloc central `toujours`. 
 > Observez sur la carte que la LED en haut à gauche est allumé.  
 > Allez maintenant dans la section __"Base"__ prenez un bloc `pause (ms) 100` que vous mettrez en dessous du premier bloc.  
@@ -20,7 +22,8 @@ Dans ce TP, nous allons programmer un objet connecté : __une carte microbit__
 > __Astuce : il est possible de faire un clique droit sur un bloc pour le copier-coller__  
 > La led en haut à gauche de la carte microbit devrait clignoter frénétiquement !
 
-> [!TIP] Q2  
+> [!TIP] 
+> __Q2__  
 > Retournez sur la page initial en cliquant sur "micro:bit" en haut à gauche de votre page
 > Cliquez sur "Nouveau Projet" nommé le __Q2__  
 > Créer un programme par bloc qui allume les LED de la deuxième ligne une à une.
@@ -33,7 +36,8 @@ Dans ce TP, nous allons programmer un objet connecté : __une carte microbit__
 > - etc...
 > A la fin du programme, lorsque toutes les LED sont allumées, ajoutez les blocs permettant d'éteindre toutes les LED    
 
-> [!TIP] Q3  
+> [!TIP]   
+> __Q3__   
 > Retournez sur la page initial en cliquant sur "micro:bit" en haut à gauche de votre page  
 > Cliquez sur "Nouveau Projet" nommé le __Q3__.  
 > Nous allons réeffectuer __exactement le même programme__ qu'à la __Q2__ mais cette fois-ci avec moins de blocs. 
@@ -45,17 +49,20 @@ Dans ce TP, nous allons programmer un objet connecté : __une carte microbit__
 > Prenez le bloc `"éteindre x0 y0"` et glissez le dans cette 2ème boucle.  
 > Prenez la variable nommée `index`. Puis déposer la à la place du `x0` dans le bloc `éteindre x0 y0`.  
 
-> [!WARNING] Vérification  
+> [!WARNING] 
+> __Vérification__  
 > - Lever la main pour que le professeur viennent vérifier votre travail.  
 > - En attendant vous pouvez passer à la question suivante.
 
-> [!TIP] Q4  
+> [!TIP] 
+> __Q4__  
 > Retournez sur la page initial en cliquant sur "micro:bit" en haut à gauche de votre page  
 > Cliquez sur "Nouveau Projet" nommé le __Q4__.  
 > Réalisez le même programme qu'à la question 3 mais cette foic-ci en allumant l'avant dernière colonne(de haut en bas).
 > Vous devriez obtenir ce résultat : ![Q4  gif](img/Q4.gif)  
 
-> [!TIP] Q5  
+> [!TIP] 
+> __Q5__  
 > Retournez sur la page initial en cliquant sur "micro:bit" en haut à gauche de votre page  
 > Cliquez sur "Nouveau Projet" nommé le __Q5__.  
 > Créer un programme qui affiche les LED de chaque ligne une à une.    

@@ -59,14 +59,14 @@ Dans ce TP, nous allons programmer un objet connecté : __une carte microbit__
 > Retournez sur la page initial en cliquant sur "micro:bit" en haut à gauche de votre page  
 > Cliquez sur "Nouveau Projet" nommé le __Q4__.  
 > Réalisez le même programme qu'à la question 3 mais cette foic-ci en allumant l'avant dernière colonne(de haut en bas).
-> Vous devriez obtenir ce résultat : ![Q4  gif](img/Q4.gif)  
+> Vous devriez obtenir ce résultat : <img src="img/Q4.gif" alt="Q4" width="15%">  
 
 > [!TIP] 
 > __Q5__  
 > Retournez sur la page initial en cliquant sur "micro:bit" en haut à gauche de votre page  
 > Cliquez sur "Nouveau Projet" nommé le __Q5__.  
 > Créer un programme qui affiche les LED de chaque ligne une à une.    
-> Vous devriez obtenir ce résultat : ![Q5 gif](img/Q5.gif)  
+> Vous devriez obtenir ce résultat : <img src="img/Q5.gif" alt="Q5" width="15%">  
 > __Astuces__ : pour réaliser cet exercice facilement il va falloir mettre une boucle dans une boucle.   
 > Attention chaque boucle doit avoir __sa propre variable__(en rouge) ces 2 variables ne doivent donc pas avoir le même nom. Pour cela cliquer dessus puis sur "Renommer la variable..." en donnant le nom que vous souhaitez.   
 

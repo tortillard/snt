@@ -34,7 +34,10 @@ Dans ce TP, nous allons programmer un objet connecté : __une carte microbit__
 > - La 2ème LED(situé en x=1 et y=1) qui s'allume
 > - attendre 200ms
 > - etc...
-> A la fin du programme, lorsque toutes les LED sont allumées, ajoutez les blocs permettant d'éteindre toutes les LED    
+> Vous devriez obtenir ce résultat :  
+> <img src="img/Q2.gif" alt="Q2" width="15%">  
+
+ 
 
 > [!TIP]   
 > __Q3__   
@@ -49,6 +52,7 @@ Dans ce TP, nous allons programmer un objet connecté : __une carte microbit__
 > Prenez le bloc `"éteindre x0 y0"` et glissez le dans cette 2ème boucle.  
 > Prenez la variable nommée `index`. Puis déposer la à la place du `x0` dans le bloc `éteindre x0 y0`.  
 
+
 > [!WARNING] 
 > __Vérification__  
 > - Lever la main pour que le professeur viennent vérifier votre travail.  
@@ -58,7 +62,7 @@ Dans ce TP, nous allons programmer un objet connecté : __une carte microbit__
 > __Q4__  
 > Retournez sur la page initial en cliquant sur "micro:bit" en haut à gauche de votre page  
 > Cliquez sur "Nouveau Projet" nommé le __Q4__.  
-> Réalisez le même programme qu'à la question 3 mais cette foic-ci en allumant l'avant dernière colonne(de haut en bas).
+> Réalisez le même programme qu'à la question 3 mais cette fois-ci en allumant l'avant dernière colonne(de haut en bas).
 > Vous devriez obtenir ce résultat :  
 >  <img src="img/Q4.gif" alt="Q4" width="15%">  
 
@@ -123,7 +127,17 @@ Dans ce TP, nous allons programmer un objet connecté : __une carte microbit__
 > ```
 > Vous devriez obtenir ce résultat :  
 >  <img src="img/Q7.gif" alt="Q7" width="15%">  
- 
+
+> [!NOTE]
+> __Astuces pour la Q7__ : il faut mémoriser dans 2 variables la coordonée x et y de la led allumé.  
+> Ensuite selon la situation on modifie ces valeurs pour allumer la led aux bonnes coordonnées.  
+
+
+> [!WARNING] 
+> __Vérification__  
+> - Lever la main pour que le professeur viennent vérifier votre travail.  
+> - En attendant vous pouvez passer à la question suivante.
+
 > [!TIP] 
 > __Q8__   
 > En restant sur le projet de la __Q7__ améliorer votre programme pour que 
@@ -133,6 +147,6 @@ Dans ce TP, nous allons programmer un objet connecté : __une carte microbit__
 >  <img src="img/Q8.gif" alt="Q8" width="15%">  
 
 > [!TIP] 
-> __Q9__   
+> __Q9 : Bonus__     
 > A l'aide de ce que vous avez appris lors de ce TP, créer un programme de votre choix.
 > Il est également possible de parcourir toutes les sections afin de se renseigner sur d'autres blocs pour créer ce programme.
